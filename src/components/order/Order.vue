@@ -182,7 +182,7 @@ export default {
         return this.$message.error('获取物流信息失败')
       }
       this.progressInfo = res.data
-      console.log(this.progressInfo)
+      // console.log(this.progressInfo)
       this.progressVisible = true
     }
   }

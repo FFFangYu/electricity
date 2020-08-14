@@ -2,7 +2,7 @@ import Vue from 'vue'
 import App from './App.vue'
 import router from './router'
 
-import './plugins/element.js'
+/* import './plugins/element.js' */
 
 /* 导入富文本 */
 import VueQuillEditor from 'vue-quill-editor'
@@ -20,7 +20,7 @@ import TreeTable from 'vue-table-with-tree-grid'
 
 // 导入nprogress
 import NProgress from 'nprogress'
-import 'nprogress/nprogress.css'
+/* import 'nprogress/nprogress.css' */
 
 /* axios */
 import axios from 'axios'
